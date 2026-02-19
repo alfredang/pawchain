@@ -20,8 +20,7 @@
 
 ## Screenshot
 
-<!-- Add a screenshot of your app here -->
-<!-- ![Screenshot](screenshot.png) -->
+![PawChain Dashboard](screenshot.png)
 
 ## About
 
